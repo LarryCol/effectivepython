@@ -111,17 +111,17 @@ unexpected behaviors. This chapter covers the common idioms for using these mech
 
   44 Use Plain Attributes Instead of Setter and Getter Methods
     
-  45 Consider @property Instead of Refactoring Attributes
+  45 Consider `@property` Instead of Refactoring Attributes
     
   46 Use Descriptors for Reusable @property Methods
     
-  47 Use __getattr__, __getattribute__, and __setattr__ for Lazy Attributes
+  47 Use` __getattr__`,` __getattribute__`, and `__setattr__` for Lazy Attributes
     
-  48 Validate Subclasses with __init_subclass__
+  48 Validate Subclasses with `__init_subclass__`
     
-  49 Register Class Existence with __init_subclass__
+  49 Register Class Existence with `__init_subclass__`
     
-  50 Annotate Class Attributes with __set_name__
+  50 Annotate Class Attributes with `__set_name__`
     
   51 Prefer Class Decorators Over Metaclasses for Composable Class Extensions
 ## Chapter 7: Concurrency and Parallelism
